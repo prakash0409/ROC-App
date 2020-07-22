@@ -1,0 +1,12 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+
+${licensePrefix}Institute of Knowledge Based Systems and Knowledge Management,
+${licensePrefix}Department of Electrical Engineering and Computer Science,
+${licensePrefix}Faculty of Science and Technology, University of Siegen, Germany
+${licensePrefix}Winter Semester 2015/16  © 2015-2016 | All right reserved for University of Siegen
+
+<#if licenseLast??>
+${licenseLast}
+</#if>

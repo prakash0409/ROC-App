@@ -1,0 +1,10 @@
+org.unisiegen.roc.controller
+org.unisiegen.roc.dao
+org.unisiegen.roc.dao.hibernate
+org.unisiegen.roc.domain
+org.unisiegen.roc.email
+org.unisiegen.roc.exception
+org.unisiegen.roc.graphs
+org.unisiegen.roc.report
+org.unisiegen.roc.view.frames
+org.unisiegen.roc.view.frames.subframes
